@@ -1,0 +1,4 @@
+flask
+Flask-Login==0.5.0
+Bcrypt-Flask==1.0.1
+des
